@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Noto+Serif+Telugu&display=swap');
+
+
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Serif Telugu', serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    background: url("/images/shaq_smash.jpeg") no-repeat center center/ cover;
+}
+
+.navbar {
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #051c2d;
+    color: white;
+    margin-bottom: 140px;
+}
+
+
+.logo-text {
+    position: relative;
+    color: #fff;
+    font-size: 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 1px;
+    padding-right: 990px;
+}
+
+.navbar-links {
+    height: 100%;
+}
+
+.navbar-links ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-links li {
+    list-style: none;
+}
+
+.navbar-links li a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding: 1rem;
+}
+
+
+/* changing hover color to NBA color */
+.navbar-links li:hover {
+    background-color: #C9082A;
+}
+
+.logo-style {
+    position: relative;
+    left: 10px;
+    height: 50px;
+    width: 30px;
+    margin: 5px;
+}
+
+.header {
+    color: #ffee00e7;
+    font-size: 45px;
+    position: relative;
+    top: -15px;
+}
+
+.btn-rock {
+    max-width: 20%;
+    height: auto;
+}
+
+.btn-paper {
+    max-width: 20%;
+    height: auto;
+}
+
+.btn-scissors {
+    max-width: 20%;
+    height: auto;
+}
+ 
+.player-score,
+.shaq-score,
+.results {
+    font-size: 25px;
+    color: #ffee00e7;
+    position: relative;
+    top: 50px;
+}
