@@ -220,7 +220,7 @@ body {
   }
 
 .slide:first-child {
-    background: url("https://jdanderson01.github.io/nba-archive/images/clyde.jpeg") no-repeat center center/cover;
+    background: url("images/clyde.jpeg") no-repeat center center/cover;
 }
 
 .slide:nth-child(2) {
