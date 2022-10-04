@@ -220,31 +220,52 @@ body {
   }
 
 .slide:first-child {
-    background: url("assets/clyde.jpeg") no-repeat center center/cover;
+    background: url("assets/clyde.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .slide:nth-child(2) {
-    background: url("assets/kawhi-shot-2.jpeg") no-repeat center center/cover;
+    background: url("assets/kawhi-shot-2.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .slide:nth-child(3) {
-    background: url("assets/suns vs spurs.jpeg") no-repeat center center/cover;
+    background: url("assets/suns-spurs.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .slide:nth-child(4) {
-    background: url("assets/celtics lakers rivarly.jpeg") no-repeat center center/cover;
+    background: url("assets/celtics-lakers.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .slide:nth-child(5) {
-    background: url("assets/drazen.jpeg") no-repeat center center/cover;
+    background: url("assets/drazen.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .slide:nth-child(6) {
-    background: url("assets/rockets.jpeg") no-repeat center center/cover;
+    background: url("assets/rockets.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .slide:nth-child(7) {
-    background: url("assets/shaq-wallace.jpeg") no-repeat center center/cover;
+    background: url("assets/shaq-wallace.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .blockquote {
