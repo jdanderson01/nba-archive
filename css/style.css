@@ -20,9 +20,10 @@
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    background: url("images/kobe.jpg") no-repeat;
-    background-size: cover;
+    background: url("images/kobe.jpg");
     background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 /* header styling */
