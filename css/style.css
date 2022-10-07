@@ -20,7 +20,7 @@
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    background: url("assets/kobe.jpg");
+    background: url("/assets/kobe.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
