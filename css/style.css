@@ -221,28 +221,28 @@ body {
   }
 
 .slide:first-child {
-    background: url("assets/clyde.jpeg");
+    background: url("/assets/clyde.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .slide:nth-child(2) {
-    background: url("assets/kawhi-shot-2.jpeg");
+    background: url("/assets/kawhi-shot-2.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .slide:nth-child(3) {
-    background: url("assets/suns-spurs.jpeg");
+    background: url("/assets/suns-spurs.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .slide:nth-child(4) {
-    background: url("assets/celtics-lakers.jpeg");
+    background: url("/assets/celtics-lakers.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -263,7 +263,7 @@ body {
 }
 
 .slide:nth-child(7) {
-    background: url("assets/shaq-wallace.jpeg");
+    background: url("/assets/shaq-wallace.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
